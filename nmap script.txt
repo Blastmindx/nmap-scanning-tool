@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#By BLASTMINDX
 #the purpose of this script will be to offer a user multiple methods of scanning their specified ip using nmap.
 #nmap is a tool used through the CLI(Command Line Interface) which allows you to scan a specified ip address for a number of different purposes,
 #most of which are outlined in the options below.
